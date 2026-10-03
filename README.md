@@ -26,27 +26,6 @@ create dashboards, and develop useful applications.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 IntelliPrep — AI-Based Interview Preparation System
-
-An AI-powered interview preparation platform that helps candidates practice
-interviews and receive personalized performance feedback.
-
-**Focus:** Machine Learning, NLP, BERT, Computer Vision, React, Flask
-
----
-
-### ✈️ Smart Travel Discovery & Comparison Platform
-
-A travel discovery platform that helps users find and compare travel packages
-based on budget, destination, interests, duration, travel type, travellers,
-and travel month.
-
-**Focus:** Python, Flask, MySQL, SQLAlchemy, Next.js, TypeScript, Tailwind CSS
-
----
-
 ### 📊 Data Analytics & Visualization
 
 Projects focused on extracting meaningful insights from data using Python,
